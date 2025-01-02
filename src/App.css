@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background: #020346;
+  background: #040553;
   color: #fff;
   padding: 10px 0;
   text-align: center;
@@ -36,11 +36,11 @@ form label {
   margin: 5px 0;
 }
 #details {
-  background-color: #ffffff;
+  background-color: #fff;
   padding: 20px;
   margin: 20px 0;
 }
 
 #details p {
-  margin: 5px 0;
+  margin: 20px 0;
 }
